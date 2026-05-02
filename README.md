@@ -5,6 +5,7 @@ A lightweight, cross-platform terminal-based installer simulator for smartwatch 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf3e984e-5f20-4f05-a4cc-cc03a5e6803b" />
 
 ##  Features
 
